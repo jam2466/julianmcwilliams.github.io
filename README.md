@@ -1,1 +1,3 @@
-# julianmcwilliams.github.io
+Hello, my name is Julian McWilliams and I hold a Bachelor's in mechanical engineering from Columbia University. I have experience in aerospace, rocketry, programming, robotics, and physics research from internships, projects, and involvement in university clubs. I also hold leadership experience as a proud Eagle Scout, as Senior Advisor for Columbia's Latinx Professional Education Network and as Vice President for Columbia's Zeta Beta Tau chapters. 
+
+I also hold teaching and laboratory experience, as I was Course Assistant in Mechanical Engineering Laboratory II and Lab Assistant for Columbia's Department of Physics.
